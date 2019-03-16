@@ -1,0 +1,52 @@
+.body {
+    background-image: url("../images/football_field.jpg");
+    background-repeat: no-repeat;
+    background-size: 600px 850px;
+    margin: auto;
+    height: 850px;
+    width: 600px;
+}
+.jersey {
+    height: 60px;
+    width: 70px;
+}
+.players-box {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 17px;  
+}
+
+.st-left {
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-right: 60px;
+}
+.number {
+    transform: translate(-2%, -230%);
+}
+.am-box {
+    margin-left: 265px;
+    margin-top: 40px;
+}
+.midfield-box {
+    margin-top: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.dm-box {
+    margin-top: 1px;
+}
+.def-box {
+    margin-left: 70px;
+    margin-right: 50px;
+}
+.gk-box {
+    margin-top: 5px;
+}
+ 
+
+    
+
+
